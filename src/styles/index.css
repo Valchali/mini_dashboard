@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bg-gradient-sidebar {
+  background: linear-gradient(to bottom, #4361ee, #3a0ca3);
+}
+
+.transition-custom {
+  transition: all 0.3s ease;
+}
+
+
+
+
+
+/* @import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bg-gradient-sidebar {
+  background: linear-gradient(to bottom, #4361ee, #3a0ca3);
+}
+
+.transition-custom {
+  transition: all 0.3s ease;
+} */
